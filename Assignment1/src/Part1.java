@@ -1,5 +1,5 @@
-// Einav Bar - 204552632
-// Lior Poterman - 315368035
+// Einav Bar
+// Lior Poterman
 
 import java.io.File;
 import java.io.FileWriter;
