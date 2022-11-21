@@ -1,0 +1,5 @@
+Denmark 2
+England 1
+Qatar 4
+Germany 1
+Australia 3
