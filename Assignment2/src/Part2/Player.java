@@ -1,3 +1,6 @@
+// Einav Bar
+// Lior Poterman
+
 package Part2;
 
 public abstract class Player {
