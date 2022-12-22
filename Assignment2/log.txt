@@ -1,0 +1,99 @@
+SUV 5 entered the queue, 0.2 seconds since start time
+SUV 5 is being washed, 0.4 seconds since start time
+Car 8 entered the queue, 0.37 seconds since start time
+Car 8 is being washed, 0.38 seconds since start time
+SUV 5 is now clean, 0.49 seconds since entered queue
+SUV 12 entered the queue, 0.67 seconds since start time
+Truck 17 entered the queue, 0.68 seconds since start time
+Truck 17 is being washed, 0.69 seconds since start time
+SUV 12 is being washed, 0.69 seconds since start time
+MiniBus 4 entered the queue, 0.78 seconds since start time
+MiniBus 4 is being washed, 0.78 seconds since start time
+Car 8 is now clean, 0.64 seconds since entered queue
+SUV 12 is now clean, 0.78 seconds since entered queue
+Truck 17 is now clean, 0.76 seconds since entered queue
+MiniBus 4 is now clean, 0.84 seconds since entered queue
+Car 19 entered the queue, 0.225 seconds since start time
+Car 19 is being washed, 0.226 seconds since start time
+Car 1 entered the queue, 0.334 seconds since start time
+Car 1 is being washed, 0.334 seconds since start time
+MiniBus 2 entered the queue, 0.339 seconds since start time
+MiniBus 2 is being washed, 0.339 seconds since start time
+MiniBus 26 entered the queue, 0.352 seconds since start time
+MiniBus 26 is being washed, 0.353 seconds since start time
+Car 19 is now clean, 0.156 seconds since entered queue
+Car 22 entered the queue, 0.417 seconds since start time
+Car 22 is being washed, 0.417 seconds since start time
+Car 25 entered the queue, 0.427 seconds since start time
+MiniBus 23 entered the queue, 0.434 seconds since start time
+MiniBus 10 entered the queue, 0.444 seconds since start time
+SUV 0 entered the queue, 0.464 seconds since start time
+SUV 6 entered the queue, 0.531 seconds since start time
+Car 1 is now clean, 0.214 seconds since entered queue
+Car 25 is being washed, 0.549 seconds since start time
+MiniBus 14 entered the queue, 0.555 seconds since start time
+MiniBus 2 is now clean, 0.217 seconds since entered queue
+MiniBus 23 is being washed, 0.556 seconds since start time
+MiniBus 26 is now clean, 0.220 seconds since entered queue
+MiniBus 10 is being washed, 0.573 seconds since start time
+Truck 16 entered the queue, 0.600 seconds since start time
+MiniBus 28 entered the queue, 0.610 seconds since start time
+Car 21 entered the queue, 0.616 seconds since start time
+Car 18 entered the queue, 0.619 seconds since start time
+Car 22 is now clean, 0.251 seconds since entered queue
+SUV 0 is being washed, 0.668 seconds since start time
+Car 25 is now clean, 0.379 seconds since entered queue
+SUV 6 is being washed, 0.809 seconds since start time
+MiniBus 23 is now clean, 0.383 seconds since entered queue
+MiniBus 14 is being washed, 0.817 seconds since start time
+MiniBus 10 is now clean, 0.393 seconds since entered queue
+Truck 16 is being washed, 0.838 seconds since start time
+SUV 0 is now clean, 0.481 seconds since entered queue
+MiniBus 28 is being washed, 0.946 seconds since start time
+Car 3 entered the queue, 0.967 seconds since start time
+SUV 13 entered the queue, 1.38 seconds since start time
+SUV 29 entered the queue, 1.38 seconds since start time
+SUV 6 is now clean, 0.584 seconds since entered queue
+Car 21 is being washed, 1.117 seconds since start time
+MiniBus 14 is now clean, 0.584 seconds since entered queue
+Car 18 is being washed, 1.138 seconds since start time
+Truck 16 is now clean, 0.583 seconds since entered queue
+Car 3 is being washed, 1.184 seconds since start time
+Car 20 entered the queue, 1.244 seconds since start time
+MiniBus 28 is now clean, 0.683 seconds since entered queue
+SUV 13 is being washed, 1.296 seconds since start time
+MiniBus 7 entered the queue, 1.302 seconds since start time
+SUV 15 entered the queue, 1.396 seconds since start time
+Car 21 is now clean, 0.851 seconds since entered queue
+SUV 29 is being washed, 1.468 seconds since start time
+Car 18 is now clean, 0.868 seconds since entered queue
+MiniBus 11 entered the queue, 1.495 seconds since start time
+Car 20 is being washed, 1.488 seconds since start time
+MiniBus 27 entered the queue, 1.556 seconds since start time
+MiniBus 9 entered the queue, 1.687 seconds since start time
+Car 3 is now clean, 0.744 seconds since entered queue
+MiniBus 7 is being washed, 1.711 seconds since start time
+SUV 13 is now clean, 0.823 seconds since entered queue
+SUV 15 is being washed, 1.861 seconds since start time
+MiniBus 24 entered the queue, 1.911 seconds since start time
+SUV 29 is now clean, 0.989 seconds since entered queue
+MiniBus 11 is being washed, 2.29 seconds since start time
+Car 20 is now clean, 0.932 seconds since entered queue
+MiniBus 27 is being washed, 2.177 seconds since start time
+MiniBus 7 is now clean, 1.103 seconds since entered queue
+MiniBus 9 is being washed, 2.406 seconds since start time
+SUV 15 is now clean, 1.206 seconds since entered queue
+MiniBus 24 is being washed, 2.604 seconds since start time
+MiniBus 11 is now clean, 1.326 seconds since entered queue
+MiniBus 27 is now clean, 1.443 seconds since entered queue
+MiniBus 9 is now clean, 1.607 seconds since entered queue
+MiniBus 24 is now clean, 1.689 seconds since entered queue
+
+
+Car cleaning average time is 0.495 seconds
+
+SUV cleaning average time is 0.601 seconds
+
+MiniBus cleaning average time is 0.811 seconds
+
+Truck cleaning average time is 0.329 seconds
